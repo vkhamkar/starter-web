@@ -14,3 +14,9 @@ A lot of lectures are already learnt
 ##GIT &GITHUB
 
 This is GIT project  which we are using as sample project 
+
+## Git Comparisons
+Adding Git Comparison lecture 
+
+##GITHUB Content
+Comparison lecture
