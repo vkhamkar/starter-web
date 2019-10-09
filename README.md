@@ -20,3 +20,6 @@ Adding Git Comparison lecture
 
 ##GITHUB Content
 Comparison lecture
+
+## contribution
+Fork the repor and raise  pull request 
