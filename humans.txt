@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
 Hi, I am modifing the file before rebase
+Adding imp notes on git stash
 Doing some changes in local
 # TEAM
 
