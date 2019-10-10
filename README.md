@@ -10,6 +10,7 @@ Sample website with plenty of files for demos
 ##Introduction
 
 A lot of lectures are already learnt 
+And alot of lectures are still pending 
 
 ##GIT &GITHUB
 
