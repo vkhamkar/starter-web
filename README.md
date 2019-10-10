@@ -19,6 +19,7 @@ Adding GIT rebase lecture in GIT advance part
 so much of work together.
 ## Git Comparisons
 Adding Git Comparison lecture 
+Adding new lectures
 
 ##GITHUB Content
 Comparison lecture
