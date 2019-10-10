@@ -15,6 +15,7 @@ A lot of lectures are already learnt
 
 This is GIT project  which we are using as sample project 
 Adding GIT rebase lecture in GIT advance part
+so much of work together.
 ## Git Comparisons
 Adding Git Comparison lecture 
 
